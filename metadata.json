@@ -1,0 +1,7 @@
+{
+  "name": "SnapChef",
+  "description": "A smart kitchen assistant that identifies ingredients from photos, estimates nutritional value, and suggests creative recipes to reduce food waste.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
